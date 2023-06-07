@@ -5,7 +5,19 @@ In this research project, image processing and machine learning techniques will 
 
 ## Steps
 1. Import the original image in the initial interface.
+
+![image](https://github.com/stupidfurfur/Numerical_Method_Project/assets/95353781/952702db-c23f-47bd-9b24-79b1ed4027c9)
+
 2. Trigger the second button to obtain the elbow method curve for the image. The curve will automatically mark the inflection point, which represents the recommended optimal number of clusters.
+
+![image](https://github.com/stupidfurfur/Numerical_Method_Project/assets/95353781/9e21a09e-b2d8-4a7e-8767-20b4957d5a53)
+
 3. The third button is for color quantization. You can perform quantization according to the recommended optimal number of clusters or adjust the number of clusters manually.
+
+![image](https://github.com/stupidfurfur/Numerical_Method_Project/assets/95353781/e797aa2d-cd8f-4cd6-8060-1e51cb0386fe)
+
 4. Before implementing the drawing, save and name the color quantized image. This saved image will be used in the next step.
+
 5. Import the specified color quantized image in the initial interface and adjust the parameters by dragging the trackbar to create a drawing practice image with less noise and prominent feature edges.
+
+![image](https://github.com/stupidfurfur/Numerical_Method_Project/assets/95353781/993d0c20-0e82-4ead-ba3a-7d810164d28d)
